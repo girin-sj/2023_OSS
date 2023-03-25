@@ -77,8 +77,8 @@ echo "$last_line"
       * 파랑
 
 ### 강조
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
 ~~cancelline~~
