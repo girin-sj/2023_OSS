@@ -73,8 +73,8 @@ echo "$last_line"
 + 두번째
 -----
 * 빨강
- - 녹색
-  + 파랑
+   * 녹색
+      * 파랑
 
 ### 강조
 *single asterisks*
